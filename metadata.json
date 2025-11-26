@@ -1,0 +1,5 @@
+{
+  "name": "SmartDev Assistant Builder",
+  "description": "An intelligent developer assistant that generates complete software projects from a single prompt. It supports various languages, debugging with patches, ZIP file handling, and integration with AI models and GitHub, all wrapped in a bilingual neon-themed UI.",
+  "requestFramePermissions": []
+}
